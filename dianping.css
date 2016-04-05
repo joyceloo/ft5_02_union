@@ -1,0 +1,861 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Union &mdash; 100% Free Fully Responsive HTML5 Template </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
+    <meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
+    <meta name="author" content="FREEHTML5.CO" />
+
+    <!-- Facebook and Twitter integration -->
+    <meta property="og:title" content=""/>
+    <meta property="og:image" content=""/>
+    <meta property="og:url" content=""/>
+    <meta property="og:site_name" content=""/>
+    <meta property="og:description" content=""/>
+    <meta name="twitter:title" content="" />
+    <meta name="twitter:image" content="" />
+    <meta name="twitter:url" content="" />
+    <meta name="twitter:card" content="" />
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="Font-Awesome-3.2.1/css/font-awesome.min.css">
+
+    <link href='http://fonts.useso.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="css/icomoon.css">
+    <!-- Simple Line Icons -->
+    <link rel="stylesheet" href="css/simple-line-icons.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- Owl Carousel  -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- Style -->
+    
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/lmj.css">
+    <link rel="stylesheet" href="css/main.css">
+
+
+    <!-- Modernizr JS -->
+    <script src="js/modernizr-2.6.2.min.js"></script>
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+    </head>
+    <body>
+    <header role="banner" id="fh5co-header">
+        <div class="fluid-container">
+            <nav class="navbar navbar-default">
+                <div class="navbar-header">
+                    <!-- Mobile Toggle Menu Button -->
+                    <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+                    <a class="navbar-brand" href="index.html"><span>U</span>nion</a> 
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a href="#" data-nav-section="home"><span>Home</span></a></li>
+                        <li><a href="#" data-nav-section="explore"><span>Explore</span></a></li>
+                        <li><a href="#" data-nav-section="testimony"><span>Testimony</span></a></li>
+                        <li><a href="#" data-nav-section="pricing"><span>Pricing</span></a></li>
+                        <li><a href="#" data-nav-section="services"><span>Services</span></a></li>
+                        <li><a href="#" data-nav-section="team"><span>Team</span></a></li>
+                        <li><a href="#" data-nav-section="faq"><span>FAQ</span></a></li>
+                        <li class="call-to-action"><a href="#"><span>Sign up free</span></a></li>
+                    </ul>
+                </div>
+            </nav>
+      </div>
+    </header>
+
+    <section id="fh5co-home" data-section="home" style="background-image: url(images/full_image_3.jpg);" data-stellar-background-ratio="0.5">
+        <div class="gradient"></div>
+        <div class="container">
+            <div class="text-wrap">
+                <div class="text-inner">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2">
+                            <h1 class="to-animate">Union One Page template for everyone</h1>
+                            <h2 class="to-animate">100% Free HTML5 Template. Licensed under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons Attribution 3.0.</a> <br> Crafted with love by <a href="#" target="_blank" title="Free HTML5 Bootstrap Templates" class="fh5co-link">FREEHTML5.co</a></h2>
+                            <div class="call-to-action">
+                                <a href="#" class="demo to-animate">Demo</a>
+                                <a href="#" class="download to-animate">Download</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="fh5co-explore" data-section="explore">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 section-heading text-center">
+                    <h2 class="to-animate">北京<small>站</small></h2>
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 subtext to-animate">
+                            <h4><small>“众”览北京城，挖掘大帝都之美.</small></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="fh5co-explore">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-push-5 to-animate-2">
+                        <img class="img-responsive" src="images/1.jpg" alt="work">
+                    </div>
+                    <div class="col-md-4 col-md-pull-8 to-animate-2">
+                        <div class="tags">
+                        <h4 class="tag_head">印象标签云</h4>
+                         <ul class="tags_links">
+                            <li><a href="#">老北京的古迹名胜</a></li>
+                            <li><a href="#">京味儿十足</a></li>
+                            <li><a href="#">京城博物馆</a></li>
+                            <li><a href="#">古镇乡村</a></li>
+                            <li><a href="#">老北京的胡同儿</a></li>
+                            <li><a href="#">京味儿十足的老字号</a></li>
+                            <li><a href="#">京城中的家乡味</a></li>
+                            <li><a href="#">小吃</a></li>
+                        </ul>
+                     </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        
+    </section>
+    <hr>
+
+
+    <section id="fh5co-faq" data-section="faq">
+        <div class="fh5co-faq">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 section-heading text-center">
+                        <h2 >走进北京</h2>
+                        <div class="row">
+                            <div class="col-md-8 col-md-offset-2 subtext">
+                                <h3><small>挑选北京精品，轻松游帝都. </small></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <section id="pricing1" class="bg-one1">
+            <div class="container">
+                <div class="row">
+                     <h3>热门景区</h3>
+                     <hr>
+                    <article class="col-md-3 col-sm-6 col-xs-12 text-center">
+                        <div class="pricing kill-margin-bottom">
+                            <!-- plan name & value -->
+                            <div class="price-title">  
+                                <hr>
+                                <p>本月热门目的地<strong class="value">排行榜</strong></p>
+                            </div>
+                            <!-- /plan name & value -->
+                            
+                            <!-- plan description -->
+                            <ul>
+                                <li><i class="Num rank-1"><span>No&nbsp</span>1</i><a href="">故宫</a></li>
+                                <li><i class="Num"><span>No&nbsp</span>2</i><a href="">故宫</a></li>
+                                <li><i class="Num"><span>No&nbsp</span>3</i><a href="">故宫</a></li>
+                                <li><i class="Num"><span>No&nbsp</span>4</i><a href="">故宫</a></li>
+                                <li><i class="Num"><span>No&nbsp</span>5</i><a href="">故宫</a></li>
+                                <li><i class="Num"><span>No&nbsp</span>6</i><a href="">故宫</a></li>
+                                <li><i class="Num"><span>No&nbsp</span>7</i><a href="">故宫</a></li>
+                                <li><i class="Num"><span>No&nbsp</span>8</i><a href="">故宫</a></li>
+                                <li><i class="Num"><span>No&nbsp</span>9</i><a href="">故宫</a></li>
+                                <li><i class="Num"><span>No&nbsp</span>10</i><a href="">故宫</a></li>
+                            </ul>
+                        </div>
+                    </article>
+                    <article class="col-md-9  text-center" >
+                        <div class="row">
+                         <div class="col-md-4">
+                          <article class="team-mate">
+                            <div class="member-photo">
+                                <!-- member photo -->
+                                <img class="img-responsive" src="images/2.jpg" alt="Meghna">
+                                <!-- /member photo -->
+                                
+                                <!-- member social profile -->
+                                <div class="mask">
+                                    <div class="jianjie">
+                                        <div>
+                                            <p>近期游玩适宜度：</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /member social profile -->
+                            </div>
+                            <div>
+                            <!-- member name & designation -->
+                            <div class="member-title fl">
+                                <h3><a href="">故宫</a></h3>
+                            </div>
+                            <div class="fr">推荐指数</div>
+                            </div>
+
+                            <div class="member-detail">
+                                
+                                <span>
+                                    <i class="icon-tag"></i>
+                                    <a href="#">宫殿</a>／
+                                    <a href="#">历史遗址</a>／
+                                    <a href="#">历史博物馆</a>
+                                </span>
+                            
+                                <ul class="social-media">
+                                <li><a href="#" class="facebook"><i class="icon-comment-alt"></i><span>1423点评</span></a></li>
+                                <li><a href="#" class="twitter"><i class="icon-book"></i><span>1023游记</span></a></li>
+                                <li><a href="#" class="dribbble"><i class="icon-picture"></i></a></li>
+                                <li><a href="#" class="codepen"><i class="icon-double-angle-right"></i></a></li>
+                                
+                            </ul>
+                            </div>
+                            <hr class="hr-im">
+
+                            <!-- /member name & designation -->
+                            
+                            <!-- about member -->
+                           <div class="member-info">
+                               <p class="imp"><small>大家印象：</small></p>
+
+                               <p class="imp"><i class="icon-quote-left"></i>如果说对旅游地点全国排名，故宫第一应是当知无愧的。再加上本就在一起的天安门广场.....<i class="icon-quote-right"></i></p>
+                           </div>
+                           <!-- /about member -->
+                           
+                       </article>
+                      </div>
+                        <div class="col-md-4">
+                                <article class="team-mate">
+                            <div class="member-photo">
+                                <!-- member photo -->
+                                <img class="img-responsive" src="images/2.jpg" alt="Meghna">
+                                <!-- /member photo -->
+                                
+                                <!-- member social profile -->
+                                <div class="mask">
+                                    <ul class="clearfix">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    </ul>
+                                </div>
+                                <!-- /member social profile -->
+                            </div>
+                            
+                            <!-- member name & designation -->
+                            <div class="member-title">
+                                <h3>故宫</h3>
+                                <div style="float: right;">推荐指数</div>
+                                <span>CEO/Founder</span>
+                            </div>
+
+                            <!-- /member name & designation -->
+                            
+                            <!-- about member -->
+                           <div class="member-info">
+                               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
+                           </div>
+                           <!-- /about member -->
+                           
+                       </article>
+                            </div>
+                            <div class="col-md-4">
+                                <article class="team-mate">
+                            <div class="member-photo">
+                                <!-- member photo -->
+                                <img class="img-responsive" src="images/2.jpg" alt="Meghna">
+                                <!-- /member photo -->
+                                
+                                <!-- member social profile -->
+                                <div class="mask">
+                                    <ul class="clearfix">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    </ul>
+                                </div>
+                                <!-- /member social profile -->
+                            </div>
+                            
+                            <!-- member name & designation -->
+                            <div class="member-title">
+                                <h3>故宫</h3>
+                                <div style="float: right;">推荐指数</div>
+                                <span>CEO/Founder</span>
+                            </div>
+
+                            <!-- /member name & designation -->
+                            
+                            <!-- about member -->
+                           <div class="member-info">
+                               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
+                           </div>
+                           <!-- /about member -->
+                           
+                       </article>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-md-4" style="padding-top: 15px ">
+                                <article class="team-mate">
+                            <div class="member-photo">
+                                <!-- member photo -->
+                                <img class="img-responsive" src="images/2.jpg" alt="Meghna">
+                                <!-- /member photo -->
+                                
+                                <!-- member social profile -->
+                                <div class="mask">
+                                    <ul class="clearfix">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    </ul>
+                                </div>
+                                <!-- /member social profile -->
+                            </div>
+                           
+                       </article>
+                            </div>
+                            <div class="col-md-4" style="padding-top: 15px ">
+                                <article class="team-mate">
+                            <div class="member-photo">
+                                <!-- member photo -->
+                                <img class="img-responsive" src="images/2.jpg" alt="Meghna">
+                                <!-- /member photo -->
+                                
+                                <!-- member social profile -->
+                                <div class="mask">
+                                    <ul class="clearfix">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    </ul>
+                                </div>
+                                <!-- /member social profile -->
+                            </div>
+                           
+                       </article>
+                            </div>
+                            <div class="col-md-4" style="padding-top: 15px ">
+                                <article class="team-mate">
+                            <div class="member-photo">
+                                <!-- member photo -->
+                                <img class="img-responsive" src="images/2.jpg" alt="Meghna">
+                                <!-- /member photo -->
+                                
+                                <!-- member social profile -->
+                                <div class="mask">
+                                    <ul class="clearfix">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    </ul>
+                                </div>
+                                <!-- /member social profile -->
+                            </div>
+                           
+                       </article>
+                            </div>
+                        </div>
+                    </article>
+                    <!-- end single pricing table -->
+                    
+                    
+                </div>       <!-- End row -->
+            </div>      <!-- End container -->
+        </section>
+                <div class="text-center "><a href="#" class="btn btn-commen">查看更多热门景区</a>
+                </div>
+                <hr>
+            </div>
+        <!---->
+        <div id="fh5co-menus">
+
+            <div class="container">
+                <h3>精选特色美食</h3>
+                <hr>
+                <div class="row row-padded">
+                    <div class="col-md-6">
+                        <div class="fh5co-food-menu ">  
+                            <ul>
+                                <li>
+                                    <div class="fh5co-food-desc desc-1">
+                                        <figure class="figure-1">
+                                            <img src="images/res_img_5.jpg" class="img-responsive img-1" alt="">
+                                        </figure>
+                                        <div class="div-1">
+                                            <h3><a href="">北京烤鸭</a></h3>
+                                            <div class="food-1 fl" style="width:40%;">
+                                                <span class="em-color">1987</span>篇游记提及
+                                            </div>
+
+                                            <div class="food-1 fr" style="width:60%;">
+                                                全国特色美食排名<span class="b-color">76</span>
+                                            </div>
+                                        
+                                            <div>
+                                                <p class="imp-food"><small>大家印象：</small></p>
+
+                               <p class="imp-food"><i class="icon-quote-left"></i>北京老字号的焖炉烤鸭，另有风味，皮酥脆，肉软嫩，味儿香...<i class="icon-quote-right"></i></p>
+                                            </div>
+                                            <div class="eat">
+                                                推荐餐厅：
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn0">&nbsp全聚德&nbsp
+                                                        <div class="eat-w-m">
+                                                        人均:80¥
+                                                    </div>
+                                                    </a>/
+                                                    </div>
+                                                    
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn1">&nbsp大董烤鸭&nbsp</a>&nbsp/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn2">&nbsp全聚德&nbsp</a>&nbsp/
+                </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="fh5co-food-pricing">
+                                        <span>人均：</span>$17.50
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="fh5co-food-desc desc-1">
+                                        <figure class="figure-1">
+                                            <img src="images/res_img_6.jpg" class="img-responsive " alt="Free HTML5 Templates by FREEHTML5.co">
+                                        </figure>
+                                        <div class="div-1">
+                                            <h3><a href="">炸酱面</a></h3>
+                                            <div class="food-1 fl" style="width:50%;">
+                                                <span class="em-color">1687</span>篇游记提及
+                                            </div>
+                                            <div class="food-1 fr" style="width:50%;">
+                                                全国特色美食排名<span class="b-color">102</span>
+                                            </div>
+                                            
+                                            <div>
+                                                <p class="imp-food"><small>大家印象：</small></p>
+
+                               <p class="imp-food"><i class="icon-quote-left"></i>炸酱面是北京富有特色的食物,由......<i class="icon-quote-right"></i></p>
+                                            </div>
+                                            <div class="eat food-2">
+                                                推荐餐厅：
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn0 f">一碗居</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn1">京味斋</a>／
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn2">海碗居</a>/
+                </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="fh5co-food-pricing">
+                                        $7.99
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="fh5co-food-desc desc-1">
+                                        <figure class="figure-1">
+                                            <img src="images/res_img_6.jpg" class="img-responsive " alt="Free HTML5 Templates by FREEHTML5.co">
+                                        </figure>
+                                        <div class="div-1">
+                                            <h3><a href="">老北京涮羊肉</a></h3>
+                                            <div class="food-1 fl" style="width:50%;">
+                                                <span class="em-color">1687</span>篇游记提及
+                                            </div>
+                                            <div class="food-1 fr" style="width:50%;">
+                                                全国特色美食排名<span class="b-color">102</span>
+                                            </div>
+                                            
+                                            <div>
+                                                <p class="imp-food"><small>大家印象：</small></p>
+
+                               <p class="imp-food"><i class="icon-quote-left"></i>老北京火锅也称“涮羊肉”,选取........<i class="icon-quote-right"></i></p>
+                                            </div>
+                                            <div class="eat food-2">
+                                                推荐餐厅：
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn0 f">东来顺</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn1">口福居</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn2">宏源南门涮肉城</a>/
+                </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="fh5co-food-pricing">
+                                        $12.99
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="fh5co-food-desc ">
+                                        <figure >
+                                            <img src="images/res_img_6.jpg" class="img-responsive " alt="Free HTML5 Templates by FREEHTML5.co">
+                                        </figure>
+                                        <div class="div-1">
+                                            <a href=""><h5>豆汁儿焦圈</h5></a>
+                                            
+                                            <div class="food-1" style="width:100%;">
+                                                全国特色美食排名<span class="b-color">152</span>
+                                            </div>
+                                            
+                                            <div class="eat food-2">
+                                                推荐餐厅：
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn0 f">护国寺小吃店</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn1">九门小吃</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn2">宏源南门涮肉城</a>/
+                </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="fh5co-food-pricing">
+                                        $12.99
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-1"></div>
+                    <div class="col-md-5">
+                        <div class="fh5co-food-menu ">
+                            
+                            <ul>
+                                <li>
+                                    <div class="fh5co-food-desc">
+                                        <figure>
+                                            <img src="images/res_img_3.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+                                        </figure>
+                                        <div class="div-1">
+                                            <a href=""><h5>豆汁儿焦圈</h5></a>
+                                            
+                                            <div class="food-1" style="width:100%;">
+                                                全国特色美食排名<span class="b-color">152</span>
+                                            </div>
+                                            
+                                            <div class="eat food-2">
+                                                推荐餐厅：
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn0 f">护国寺小吃店</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn1">九门小吃</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn2">宏源南门涮肉城</a>/
+                </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="fh5co-food-pricing">
+                                        $17.50
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="fh5co-food-desc">
+                                        <figure>
+                                            <img src="images/res_img_4.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+                                        </figure>
+                                        <div class="div-1">
+                                            <a href=""><h5>豆汁儿焦圈</h5></a>
+                                            
+                                            <div class="food-1" style="width:100%;">
+                                                全国特色美食排名<span class="b-color">152</span>
+                                            </div>
+                                            
+                                            <div class="eat food-2">
+                                                推荐餐厅：
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn0 f">护国寺小吃店</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn1">九门小吃</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn2">宏源南门涮肉城</a>/
+                </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="fh5co-food-pricing">
+                                        $7.99
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="fh5co-food-desc">
+                                        <figure>
+                                            <img src="images/res_img_2.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+                                        </figure>
+                                        <div class="div-1">
+                                            <a href=""><h5>豆汁儿焦圈</h5></a>
+                                            
+                                            <div class="food-1" style="width:100%;">
+                                                全国特色美食排名<span class="b-color">152</span>
+                                            </div>
+                                            
+                                            <div class="eat food-2">
+                                                推荐餐厅：
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn0 f">护国寺小吃店</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn1">九门小吃</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn2">宏源南门涮肉城</a>/
+                </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="fh5co-food-pricing">
+                                        $12.99
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="fh5co-food-desc">
+                                        <figure>
+                                            <img src="images/res_img_8.jpg" class="img-responsive" alt="Free HTML5 Templates by FREEHTML5.co">
+                                        </figure>
+                                        <div class="div-1">
+                                            <a href=""><h5>豆汁儿焦圈</h5></a>
+                                            
+                                            <div class="food-1" style="width:100%;">
+                                                全国特色美食排名<span class="b-color">152</span>
+                                            </div>
+                                            
+                                            <div class="eat food-2">
+                                                推荐餐厅：
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn0 f">护国寺小吃店</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn1">九门小吃</a>/
+                </div>
+                                                </div>
+                                                <div class="eat-w">
+                                                    <div class="call-to-action text-center to-animate fadeInUp animated"><a href="#" class="btn btn-learn2">宏源南门涮肉城</a>/
+                </div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="fh5co-food-pricing">
+                                        $12.99
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    </div>
+                </div>
+                <div class="call-to-action text-center"><a href="#" class="btn btn-commen">查看更多特色美食</a></div>
+                <hr>
+            </div>
+        </div>
+        <!---->
+    </section>
+
+
+      <section id="fh5co-testimonials" data-section="testimonials" class="animated">
+        <div class="container">
+            <div class="row">
+                    <div>
+                        <h3>点评</h3>
+                    </div>
+                    <hr>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="box-testimony">
+                        <blockquote>
+                            <p>“哈哈，三里屯也跟我想象有挺大的差异。倒是比后海安静了好多，不过酒吧没有想象中那么多，那么高大上。 >>”</p>
+                        </blockquote>
+                        <div class="author to-animate fadeInUp animated">
+                            <figure><img src="images/person2.jpg" alt="Person"></figure>
+                            <p>
+                            Jean Doe, CEO <span class="subtext">关于：</span><a href="#" target="_blank"> 三里屯 后海 酒吧.....</a> 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="box-testimony">
+                        <blockquote>
+                            <p>“缺点：空气质量太差。 优点：可以值得游玩的地方真的很多。 天津人，有了动车以后来去北京更加方便快捷。 >>”</p>
+                        </blockquote>
+                        <div class="author to-animate fadeInUp animated">
+                            <figure><img src="images/person2.jpg" alt="Person"></figure>
+                            <p>
+                            John Doe, Senior UI <span class="subtext">关于：</span><a href="#" target="_blank">景点 环境.....</a> 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="box-testimony">
+                        <blockquote class=" animated">
+                            <p>“去过三次北京了，每次都有不一样的感觉，还是会想再去一次。帝都怎么样都是不能错过的地方。八达岭长城、故宫、南锣鼓巷、后海…… ”</p>
+                        </blockquote>
+                        <div class="author to-animate fadeInUp animated">
+                            <figure><img src="images/person3.jpg" alt="Person"></figure>
+                            <p>
+                            Chris Nash, Director <span class="subtext">关于：</span><a href="#" target="_blank" >南锣鼓巷 长城 后海.....</a> 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div> <!--end div-->
+                <div class="clearfix"></div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="box-testimony">
+                        <blockquote class=" animated">
+                            <p>“北京还用多说什么吗，我大中国的首都。值得游玩的地方，一次一次的去感受，几年了，还有很多地方想去而没有到过。”</p>
+                        </blockquote>
+                        <div class="author to-animate fadeInUp animated">
+                            <figure><img src="images/person3.jpg" alt="Person"></figure>
+                            <p>
+                            Chris Nash, Director<span class="subtext">关于：</span><a href="#" target="_blank" >南锣鼓巷 长城 后海.....</a> 
+                            </p>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="box-testimony">
+                        <blockquote class="animated">
+                            <p>“去过三次北京了，每次都有不一样的感觉，还是会想再去一次。帝都怎么样都是不能错过的地方。八达岭长城、故宫、南锣鼓巷、后海…… ”</p>
+                        </blockquote>
+                        <div class="author to-animate fadeInUp animated">
+                            <figure><img src="images/person3.jpg" alt="Person"></figure>
+                            <p>
+                            Chris Nash, Director <span class="subtext">关于：</span><a href="#" target="_blank" >南锣鼓巷 长城 后海.....</a> 
+                            </p>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="box-testimony">
+                        <blockquote class="animated">
+                            <p>“去过三次北京了，每次都有不一样的感觉，还是会想再去一次。帝都怎么样都是不能错过的地方。八达岭长城、故宫、南锣鼓巷、后海…… ”</p>
+                        </blockquote>
+                        <div class="author to-animate fadeInUp animated">
+                            <figure><img src="images/person3.jpg" alt="Person"></figure>
+                            <p>
+                            Chris Nash, Director <span class="subtext">关于：</span><a href="#" target="_blank">故宫 长城 后海.....</a> 
+                            </p>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="box-testimony">
+                        <blockquote class="">
+                            <p>“去过三次北京了，每次都有不一样的感觉，还是会想再去一次。帝都怎么样都是不能错过的地方。八达岭长城、故宫、南锣鼓巷、后海…… ”</p>
+                        </blockquote>
+                        <div class="author to-animate fadeInUp animated">
+                            <figure><img src="images/person3.jpg" alt="Person"></figure>
+                            <p>
+                            Chris Nash, Director <span class="subtext">关于：</span><a href="#" target="_blank" >南锣鼓巷 长城 后海.....</a> 
+                            </p>
+                        </div>
+                    </div>
+                    </div>
+                    <div class=" text-center"><a href="#" class="btn btn-commen" style="background:#52d3aa;">查看更多</a></div>
+                    <hr>
+                </div>
+        </div>
+    </section>
+    
+
+
+
+    
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <!-- jQuery Easing -->
+    <script src="js/jquery.easing.1.3.js"></script>
+    <!-- Bootstrap -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Waypoints -->
+    <script src="js/jquery.waypoints.min.js"></script>
+    <!-- Stellar Parallax -->
+    <script src="js/jquery.stellar.min.js"></script>
+    <!-- Owl Carousel -->
+    <script src="js/owl.carousel.min.js"></script>
+    <!-- Google Map -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+    <script src="js/google_map.js"></script>
+    <!-- Main JS (Do not remove) -->
+    <script src="js/main.js"></script>
+
+    </body>
+</html>
+
